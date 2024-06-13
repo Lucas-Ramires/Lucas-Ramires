@@ -44,8 +44,6 @@
 
 <img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000">
 
-<img align="left"  height="80" width="80" src="https://imgs.search.brave.com/Nxfdh3LF-v-uT2swp6jMDSP24lh15FssWktw5JRsZcI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90YWlsd2lu/ZC1jc3MtaWNvbi0x/MDI0eDYxNS1mZGVp/czVyMS5wbmc">
-
 <img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000">
 
 <img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000">
