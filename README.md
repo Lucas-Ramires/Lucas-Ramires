@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&duration=4000&pause=1000&color=faf0ca&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Lucas+Ramires;Fascinado+pela+tecnologia+transformadora%2C+dedicado+a+explorá-la+plenamente;Sou+um+engenheiro+de+software+em+constante+evolução)](https://git.io/typing-svg)
 
-<br>
 
 <div align="center"> 
 <img width="58%" height="350" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ramires&icons=true&hide_border=true&bg_color=0D1117&text_color=f4d35e&title_color=f95738"/>
