@@ -14,6 +14,7 @@
 
 </div>
 
+
 <div align="center"> 
 <a href="https://www.linkedin.com/in/lucasrdev/" target="_blank">
 <img align="center" height="84" width="84" src="https://ik.imagekit.io/fxpct4486/ImgLinks/linkgreen.png?updatedAt=1718301164501">
@@ -28,4 +29,31 @@
 <img align="center"  height="80" width="80" src="https://ik.imagekit.io/fxpct4486/ImgLinks/instagreen.png?updatedAt=1718301164637">
 </a>
 
+<br>
+<br>
+
 </div>
+
+### Main skills:
+<div align="left"> 
+<img align="left" height="84" width="84" src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000">
+
+<img align="left" height="80" width="80" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+
+<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
+
+<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000">
+
+<img align="left"  height="80" width="80" src="https://imgs.search.brave.com/Nxfdh3LF-v-uT2swp6jMDSP24lh15FssWktw5JRsZcI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90YWlsd2lu/ZC1jc3MtaWNvbi0x/MDI0eDYxNS1mZGVp/czVyMS5wbmc">
+
+<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000">
+
+<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000">
+
+<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
+
+<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=8305&format=png&color=22C3E6">
+
+</div>
+
+<img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=waving&color=249038&height=120&section=footer"/>
