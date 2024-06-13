@@ -36,21 +36,21 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000">
+<img align="left" height="70" width="70" src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000">
 
-<img align="left" height="80" width="80" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+<img align="left" height="70" width="70" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
 
-<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
+<img align="left"  height="70" width="70" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
 
-<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000">
+<img align="left"  height="70" width="70" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000">
 
-<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000">
+<img align="left"  height="70" width="70" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000">
 
-<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000">
+<img align="left"  height="70" width="70" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000">
 
-<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
+<img align="left"  height="70" width="70" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
 
-<img align="left"  height="80" width="80" src="https://img.icons8.com/?size=100&id=8305&format=png&color=22C3E6">
+<img align="left"  height="70" width="70" src="https://img.icons8.com/?size=100&id=8305&format=png&color=22C3E6">
 
 </div>
 
