@@ -7,13 +7,7 @@
 <img width="58%"  src="https://github-readme-stats.vercel.app/api?username=Lucas-Ramires&icons=true&hide_border=true&bg_color=0D1117&text_color=faf0ca&title_color=249038"/>
 <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ramires&hide_border=true&text_color=faf0ca&layout=donut&title_color=249038&bg_color=0D1117"/>
 
- 
 
-
-<div align="center"> 
-<a href="https://www.linkedin.com/in/lucasrdev/" target="_blank">
-<img align="center" height="84" width="84" src="https://ik.imagekit.io/fxpct4486/ImgLinks/linkgreen.png?updatedAt=1718301164501">
-</a>
 
 <br>
 <br>
