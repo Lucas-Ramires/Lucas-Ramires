@@ -8,11 +8,6 @@
 <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ramires&hide_border=true&text_color=faf0ca&layout=donut&title_color=249038&bg_color=0D1117"/>
 
  
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Lucas-Ramires?chart=3dbar&gap=1&scale=2&light=22&gradient=true&flatten=0&animation=wave&animation_duration=5&animation_delay=0&animation_amplitude=44&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=15&theme=native&widget_size=large&dark=true) 
-
-</div>
 
 
 <div align="center"> 
