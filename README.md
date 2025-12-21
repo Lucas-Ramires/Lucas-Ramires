@@ -15,15 +15,6 @@
 <img align="center" height="84" width="84" src="https://ik.imagekit.io/fxpct4486/ImgLinks/linkgreen.png?updatedAt=1718301164501">
 </a>
 
-<a href="mailto:lucas_ramires01@outlook.com" target="_blank">
-<img align="center" height="80" width="80" src="https://ik.imagekit.io/fxpct4486/ImgLinks/envelopegreen.png?updatedAt=1718301164575">
-</a>
-
-
-<a href="https://www.instagram.com/lucamires/">
-<img align="center"  height="80" width="80" src="https://ik.imagekit.io/fxpct4486/ImgLinks/instagreen.png?updatedAt=1718301164637">
-</a>
-
 <br>
 <br>
 
